@@ -1,2 +1,6 @@
 # Simon-Says-Game
-About Simon Says is a classic memory game where the player must remember and repeat a sequence of colors. This project provides a fun and interactive way to test and improve your memory skills.
+
+## Features
+- **Interactive Gameplay:** Click or tap on the colored buttons to repeat the sequence.
+- **Randomized Sequences:** The game generates random sequences to keep the gameplay challenging.
+- **Score Tracking:** Keep track of your score to see how well you're doing.
